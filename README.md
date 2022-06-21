@@ -1,4 +1,23 @@
-# Getting Started with Create React App
+# Hi There 👋 I'm Satya!
+
+# About Me
+
+My age: 22 Y/O @[2022]
+
+My E-mail: satyaranjanrayrazzor@gmail.com
+
+Currently Pursuing Master of computer application (MCA) From KIIT University , Bhubaneswar.
+I love teaching DSA,Java,Etc.. 
+Was an ex-Proffesional Gamer of VALORANT And CS:GO
+
+# This Repo : About
+This is a ToDo List: Build with React.js.
+![image](https://user-images.githubusercontent.com/88974573/174694822-213dc94b-88fe-46ae-b2c8-2547469774a6.png)
+
+![image](https://user-images.githubusercontent.com/88974573/174694787-2ba1983b-d62b-4580-aaa3-82abab876c3b.png)
+
+
+<!-- # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -68,3 +87,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+ -->
