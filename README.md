@@ -10,8 +10,8 @@ Currently Pursuing Master of computer application (MCA) From KIIT University , B
 I love teaching DSA,Java,Etc.. 
 Was an ex-Proffesional Gamer of VALORANT And CS:GO
 
-# This Repo : About
-This is a ToDo List: Build with React.js.
+# This Repo : About (TODO:LIST)
+
 ![image](https://user-images.githubusercontent.com/88974573/174694822-213dc94b-88fe-46ae-b2c8-2547469774a6.png)
 
 ![image](https://user-images.githubusercontent.com/88974573/174694787-2ba1983b-d62b-4580-aaa3-82abab876c3b.png)
