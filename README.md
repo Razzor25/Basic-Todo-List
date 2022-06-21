@@ -1,5 +1,14 @@
 # Hi There 👋 I'm Satya!
 
+
+
+# This Repo : About (TODO:LIST)
+
+![image](https://user-images.githubusercontent.com/88974573/174694956-896365ad-85d0-4b8f-a26f-985de256485d.png)
+
+
+![image](https://user-images.githubusercontent.com/88974573/174694938-7828c9ef-864e-4ca8-ad37-544ef61e8eba.png)
+
 # About Me
 
 My age: 22 Y/O @[2022]
@@ -9,15 +18,6 @@ My E-mail: satyaranjanrayrazzor@gmail.com
 Currently Pursuing Master of computer application (MCA) From KIIT University , Bhubaneswar.
 I love teaching DSA,Java,Etc.. 
 Was an ex-Proffesional Gamer of VALORANT And CS:GO
-
-# This Repo : About (TODO:LIST)
-
-![image](https://user-images.githubusercontent.com/88974573/174694956-896365ad-85d0-4b8f-a26f-985de256485d.png)
-
-
-![image](https://user-images.githubusercontent.com/88974573/174694938-7828c9ef-864e-4ca8-ad37-544ef61e8eba.png)
-
-
 
 <!-- # Getting Started with Create React App
 
