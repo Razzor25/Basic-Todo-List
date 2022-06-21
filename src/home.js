@@ -6,6 +6,7 @@ const Home=()=>{
 
     const [todo,setTodo]=useState([
     {title:'Study', body:'Study react from youtube..', id:1},
+    {title:'Travel', body:'Go to station at 4:o clock Sharp.', id:4},
     {title:'Series', body:'Netflix Stranger Things', id:2},
     {title:'Nityakarma', body:'Bath , eat and take rest..', id:3}
     ]);
