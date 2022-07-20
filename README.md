@@ -1,4 +1,4 @@
-# Hi There 👋 I'm Satya!
+# Hi There  I'm Satya!
 
 
 
