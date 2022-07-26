@@ -4,12 +4,14 @@
 
 # This Repo : About (TODO:LIST)
 
-![image](https://user-images.githubusercontent.com/88974573/174694956-896365ad-85d0-4b8f-a26f-985de256485d.png)
+![image](https://user-images.githubusercontent.com/88974573/180919060-99c95c59-e782-426d-93b5-01d193c3524c.png)
 
+# After Sign-in and if non of the task is important[#non Star]:- 
+![image](https://user-images.githubusercontent.com/88974573/180919145-f848074f-0c3a-491a-907a-2e75df1a015b.png)
 
-![image](https://user-images.githubusercontent.com/88974573/174694938-7828c9ef-864e-4ca8-ad37-544ef61e8eba.png)
+# After doing some task to star[ or important ] :- 
+![image](https://user-images.githubusercontent.com/88974573/180919208-7c4d2adb-0ae6-4469-b371-32a1f4a42b36.png)
 
-# About Me
 
 My age: 22 Y/O @[2022]
 
